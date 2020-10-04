@@ -1,0 +1,16 @@
+// adjustment variables
+$container-width: 940px;
+$footer-height: 50px;
+$header-height: 50px;
+$body-font : Helvetica, serif;
+$font-size: 16px;
+$white: #fff;
+
+
+@import "../../node_modules/normalize.css/normalize";
+@import "_misc/mixins";
+@import "_misc/fonts";
+@import "_misc/adjustment";
+
+
+
